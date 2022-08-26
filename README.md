@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Mohamed
-- 👀 I’m interested in Python
+- 👀 I’m interested in learning Python
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on Python teams
 - 📫 How to reach me Mohamedabdiali4@gmil.com
